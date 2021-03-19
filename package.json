@@ -1,6 +1,6 @@
 {
-	"author": "Gopinath Puli Desikan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Gopinath Puli Desikan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
